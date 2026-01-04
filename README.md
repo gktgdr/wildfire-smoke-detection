@@ -13,7 +13,7 @@ he project focuses on classifying forest fire, smoke, and non-fire images, and I
 - Deployment feasibility analysis (model size and inference time)
 
 ## Files
-- `Untitled2.ipynb`  
+- `wildfire_smoke_detection.ipynb`  
   End-to-end Jupyter Notebook including data preprocessing, model training,
   evaluation, and all experiments for Research Questions RQ1–RQ5.
 
